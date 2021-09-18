@@ -168,9 +168,10 @@ beep-boop
 
 ## See Also
 
--   [`@stdlib/string/camelcase`][@stdlib/string/camelcase]: convert a string to camel case.
--   [`@stdlib/string/constantcase`][@stdlib/string/constantcase]: convert a string to constant case.
--   [`@stdlib/string/snakecase`][@stdlib/string/snakecase]: convert a string to snake case.
+-   <span class="package-name">[`@stdlib/string/camelcase`][@stdlib/string/camelcase]</span><span class="delimiter">: </span><span class="description">convert a string to camel case.</span>
+-   <span class="package-name">[`@stdlib/string/constantcase`][@stdlib/string/constantcase]</span><span class="delimiter">: </span><span class="description">convert a string to constant case.</span>
+-   <span class="package-name">[`@stdlib/string/pascalcase`][@stdlib/string/pascalcase]</span><span class="delimiter">: </span><span class="description">convert a string to Pascal case.</span>
+-   <span class="package-name">[`@stdlib/string/snakecase`][@stdlib/string/snakecase]</span><span class="delimiter">: </span><span class="description">convert a string to snake case.</span>
 
 </section>
 
@@ -240,6 +241,8 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [@stdlib/string/camelcase]: https://github.com/stdlib-js/string-camelcase
 
 [@stdlib/string/constantcase]: https://github.com/stdlib-js/string-constantcase
+
+[@stdlib/string/pascalcase]: https://github.com/stdlib-js/string-pascalcase
 
 [@stdlib/string/snakecase]: https://github.com/stdlib-js/string-snakecase
 
