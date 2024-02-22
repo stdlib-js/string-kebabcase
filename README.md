@@ -174,16 +174,16 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/string-kebabcase-cli.svg
 [npm-url]: https://npmjs.org/package/@stdlib/string-kebabcase-cli
 
-[test-image]: https://github.com/stdlib-js/string-kebabcase/actions/workflows/test.yml/badge.svg?branch=v0.2.1
-[test-url]: https://github.com/stdlib-js/string-kebabcase/actions/workflows/test.yml?query=branch:v0.2.1
+[test-image]: https://github.com/stdlib-js/string-kebabcase@v0.2.1/actions/workflows/test.yml/badge.svg?branch=v0.2.1
+[test-url]: https://github.com/stdlib-js/string-kebabcase@v0.2.1/actions/workflows/test.yml?query=branch:v0.2.1
 
-[coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/string-kebabcase/main.svg
-[coverage-url]: https://codecov.io/github/stdlib-js/string-kebabcase?branch=main
+[coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/string-kebabcase@v0.2.1/main.svg
+[coverage-url]: https://codecov.io/github/stdlib-js/string-kebabcase@v0.2.1?branch=main
 
 <!--
 
-[dependencies-image]: https://img.shields.io/david/stdlib-js/string-kebabcase.svg
-[dependencies-url]: https://david-dm.org/stdlib-js/string-kebabcase/main
+[dependencies-image]: https://img.shields.io/david/stdlib-js/string-kebabcase@v0.2.1.svg
+[dependencies-url]: https://david-dm.org/stdlib-js/string-kebabcase@v0.2.1/main
 
 -->
 
@@ -194,22 +194,22 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
 
-[cli-section]: https://github.com/stdlib-js/string-kebabcase#cli
-[cli-url]: https://github.com/stdlib-js/string-kebabcase/tree/cli
-[@stdlib/string-kebabcase]: https://github.com/stdlib-js/string-kebabcase/tree/main
+[cli-section]: https://github.com/stdlib-js/string-kebabcase@v0.2.1#cli
+[cli-url]: https://github.com/stdlib-js/string-kebabcase@v0.2.1/tree/cli
+[@stdlib/string-kebabcase]: https://github.com/stdlib-js/string-kebabcase@v0.2.1/tree/main
 
 [umd]: https://github.com/umdjs/umd
 [es-module]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
 
-[deno-url]: https://github.com/stdlib-js/string-kebabcase/tree/deno
-[deno-readme]: https://github.com/stdlib-js/string-kebabcase/blob/deno/README.md
-[umd-url]: https://github.com/stdlib-js/string-kebabcase/tree/umd
-[umd-readme]: https://github.com/stdlib-js/string-kebabcase/blob/umd/README.md
-[esm-url]: https://github.com/stdlib-js/string-kebabcase/tree/esm
-[esm-readme]: https://github.com/stdlib-js/string-kebabcase/blob/esm/README.md
-[branches-url]: https://github.com/stdlib-js/string-kebabcase/blob/main/branches.md
+[deno-url]: https://github.com/stdlib-js/string-kebabcase@v0.2.1/tree/deno
+[deno-readme]: https://github.com/stdlib-js/string-kebabcase@v0.2.1/blob/deno/README.md
+[umd-url]: https://github.com/stdlib-js/string-kebabcase@v0.2.1/tree/umd
+[umd-readme]: https://github.com/stdlib-js/string-kebabcase@v0.2.1/blob/umd/README.md
+[esm-url]: https://github.com/stdlib-js/string-kebabcase@v0.2.1/tree/esm
+[esm-readme]: https://github.com/stdlib-js/string-kebabcase@v0.2.1/blob/esm/README.md
+[branches-url]: https://github.com/stdlib-js/string-kebabcase@v0.2.1/blob/main/branches.md
 
-[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/string-kebabcase/main/LICENSE
+[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/string-kebabcase@v0.2.1/main/LICENSE
 
 [standard-streams]: https://en.wikipedia.org/wiki/Standard_streams
 
